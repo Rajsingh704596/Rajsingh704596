@@ -53,7 +53,7 @@
   Check out some of my work below:
 </p>
 <ul>
-  <li><a href="https://jaipuradvocate.netlify.app" target="_blank"><strong>Advocate Profile</strong></a> - A website built using React, React-Router-Dom, and React Icons to display advocate profiles.</li>
+  <li><a href="https://jaipuradvocate.vercel.app/" target="_blank"><strong>Advocate Profile</strong></a> - A website built using React, React-Router-Dom, and React Icons to display advocate profiles.</li>
 </ul>
 
 <hr>
