@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p class="social-links" align="left"> 
-  <a href="https://github.com/rajsingh704596" target="_blank">GitLab</a> |
+  <a href="https://gitlab.com/Rajsingh704596" target="_blank">GitLab</a> |
   <a href="https://rajsinghchauhanportfolio.vercel.app/" target="_blank">Portfolio</a> |
 </p>
 
