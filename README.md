@@ -57,6 +57,9 @@
 </p>
 <ul>
   <li><a href="https://jaipuradvocate.vercel.app/" target="_blank"><strong>Advocate Profile</strong></a> - A website built using React, React-Router-Dom, and React Icons to display advocate profiles.</li>
+  <li><a href="https://ai-image-enhancer-with-react.vercel.app
+/" target="_blank"><strong>AI Enhancer Image</strong></a> - Using picwish api AI Image Enhancer React app create </li>
+  
 </ul>
 
 <hr>
