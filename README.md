@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.gif" alt="GitHub Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Raj Singh Chauhan</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
@@ -13,7 +16,7 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Other Links:</h3>
 <p class="social-links" align="left"> 
   <a href="https://rajsinghchauhanportfolio.vercel.app/" target="_blank">Portfolio</a> |
   <a href="https://gitlab.com/Rajsingh704596" target="_blank">GitLab</a> |
