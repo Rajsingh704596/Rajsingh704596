@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Raj Singh Chauhan</h1>
+
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<!-- Brief Description about Yourself -->
 <p align="center">
   🌱 Currently learning "Backend Development" to become a Full Stack Developer and enhance my skills. 
 </p>
@@ -14,9 +14,9 @@
   📫 How to reach me: <a href="mailto:rajsingh704596@gmail.com">rajsingh704596@gmail.com</a>
 </p>
 
-<hr>
+<hr/>
 
-<h3 align="left">Other Links:</h3>
+><h3 align="left">Other Links :</h3>
 <p class="social-links" align="left"> 
   <a href="https://rajsinghchauhanportfolio.vercel.app/" target="_blank">Portfolio</a> |
   <a href="https://gitlab.com/Rajsingh704596" target="_blank">GitLab</a> |
@@ -24,8 +24,9 @@
 
 ---
 ## 🛠️ **Tech Stack**
+<!--Frontend Development -->
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=2000&color=F5F7F5&background=D59CF700&vCenter=true&multiline=true&width=500&lines=Frontend+Development+%3A+-" alt="Frontend Development : " />
 
-### **Frontend Development**
 #### Core Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -43,7 +44,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
 </p>
 
-#### UI Components & Styling
+#### UI Components for Styling & Animation
 <p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI">
@@ -52,7 +53,8 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP">
   <img src="https://img.shields.io/badge/Swiper.js-0080FF?style=for-the-badge&logo=swiper&logoColor=white" alt="Swiper.js">
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
-  
+<!--   <img src="https://img.shields.io/badge/AOS-FF5A5F?style=for-the-badge&logo=aos&logoColor=white" alt="AOS"> -->
+<!--   <img src="https://img.shields.io/badge/Lottie-FF7F50?style=for-the-badge&logo=lottie&logoColor=white" alt="Lottie">  -->
 </p>
 
 #### Form Handling & Validation
@@ -70,7 +72,13 @@
 <!--   <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC"> -->
 </p>
 
-### **Backend Development**
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/>
+</p>
+
+<!--Backend Development-->
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=2000&color=F5F7F5&background=D59CF700&vCenter=true&multiline=true&width=500&lines=Backend+Development+%3A+-" alt="Backend Development : " />
+
 #### Server & APIs
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
@@ -80,12 +88,17 @@
 
 #### Authentication
 <p align="left">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT">
+   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT">
 <!--   <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0"> -->
 <!--   <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="OAuth"> -->
+<!--   <img src="https://img.shields.io/badge/Firebase%20Auth-FFCB2F?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Authentication"> -->
+<!--   <img src="https://img.shields.io/badge/Okta-00A4A6?style=for-the-badge&logo=okta&logoColor=white" alt="Okta"> -->
+<!--   <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js"> -->
+<!--   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"> -->
+<!--   <img src="https://img.shields.io/badge/Clerk-0088FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk"> -->
 </p>
 
-### **Database & ORMs**
+#### **Database & ORMs**
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -96,16 +109,29 @@
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
 </p>
 
-### **DevOps & Deployment**
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/>
+</p>
+
+### **Deployment**
 <p align="left">
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-  <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> -->
-  <!-- <img src="https://img.shields.io/badge/Coolify-0066FF?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify"> -->
-  <!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"> -->
-<!--   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"> -->
 </p>
+
+<!--
+### **DevOps**
+<p align="left"> 
+<!--  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> -->
+<!--   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"> -->
+<!--   <img src="https://img.shields.io/badge/Coolify-0066FF?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify">  -->
+<!--   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"> -->
+<!-- <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"> -->
+<!--     <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-00A1E4?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD Pipelines"> -->
+<!--   <img src="https://img.shields.io/badge/Jenkins-FF6C37?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins CI"> -->
+<!--   <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI"> -->
+</p> 
 
 ### **Developer Tools & Workflow**
 <p align="left">
@@ -115,11 +141,11 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier">
-  <!-- <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"> -->
+<!--   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"> -->
 </p>
 <hr>
 
-<h3 align="left">About Me:</h3>
+<h3 align="left">About Me : </h3>
 <p align="left">
   👨‍💻 As a passionate "Frontend Developer", I have experience in designing and building responsive and user-friendly web applications using "HTML", "CSS", "JavaScript", and "React.js". <br><br>
   🌱 Currently, I am learning "Backend Development" to become a "Full Stack Developer" and gain expertise in technologies such as "Node.js", "Express.js", and "MongoDB". <br><br>
@@ -128,7 +154,7 @@
 
 <hr>
 
-<h3 align="left">Projects:</h3>
+<h3 align="left">Projects : </h3>
 <p align="left">
   Check out some of my work below:
 </p>
@@ -145,6 +171,10 @@
 
 <h3 align="left">Looking Ahead:</h3>
 <p align="left">
-  I am continuously working towards mastering both "Frontend" and "Backend Development" to become a well-rounded "Full Stack Developer". My goal is to build real-world applications, contribute to open-source, and enhance my problem-solving skills. 💻🚀
+  I am continuously working towards mastering both "Frontend" and "Backend Development" to become a well-rounded "Full Stack Developer". My goal is to build real-world applications, contribute to open-source, and enhance my problem-solving skills. 💻
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
 </p>
 
