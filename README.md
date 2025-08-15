@@ -14,6 +14,7 @@
   📫 How to reach me: <a href="mailto:rajsingh704596@gmail.com">rajsingh704596@gmail.com</a>
 </p>
 
+
 <hr/>
 
 ><h3 align="left">Other Links :</h3>
@@ -23,9 +24,9 @@
 </p>
 
 ---
-## 🛠️ **Tech Stack**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" align="top" /> &nbsp;**Tech Stack :**
 <!--Frontend Development -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=2000&color=F5F7F5&background=D59CF700&vCenter=true&multiline=true&width=500&lines=Frontend+Development+%3A+-" alt="Frontend Development : " />
+### <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&pause=2000&color=F5F7F5&background=D59CF700&vCenter=true&multiline=true&width=500&lines=Frontend+Development+%3A+-" alt="Frontend Development : " />
 
 #### Core Technologies
 <p align="left">
@@ -77,7 +78,7 @@
 </p>
 
 <!--Backend Development-->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=2000&color=F5F7F5&background=D59CF700&vCenter=true&multiline=true&width=500&lines=Backend+Development+%3A+-" alt="Backend Development : " />
+### <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&pause=2000&color=F5F7F5&background=D59CF700&vCenter=true&multiline=true&width=500&lines=Backend+Development+%3A+-" alt="Backend Development : " />
 
 #### Server & APIs
 <p align="left">
@@ -171,8 +172,9 @@
 
 <h3 align="left">Looking Ahead:</h3>
 <p align="left">
-  I am continuously working towards mastering both "Frontend" and "Backend Development" to become a well-rounded "Full Stack Developer". My goal is to build real-world applications, contribute to open-source, and enhance my problem-solving skills. 💻
+  I am continuously working towards mastering both "Frontend" and "Backend Development" to become a well-rounded "Full Stack Developer". My goal is to build real-world applications, contribute to open-source, and enhance my problem-solving skills. 💻<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="22" align="center">
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
