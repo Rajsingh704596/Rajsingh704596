@@ -14,7 +14,6 @@
   📫 How to reach me: <a href="mailto:rajsingh704596@gmail.com">rajsingh704596@gmail.com</a>
 </p>
 
-
 <hr/>
 
 ><h3 align="left">Other Links :</h3>
@@ -39,6 +38,7 @@
 #### Frameworks & State Management Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge">
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit">
   <img src="https://img.shields.io/badge/Zustand-614F0D?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand">
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query">
@@ -173,8 +173,10 @@
 <h3 align="left">Looking Ahead:</h3>
 <p align="left">
   I am continuously working towards mastering both "Frontend" and "Backend Development" to become a well-rounded "Full Stack Developer". My goal is to build real-world applications, contribute to open-source, and enhance my problem-solving skills. 💻<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="22" align="center">
+  <span align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rajsingh704596" />
+  </span>
 </p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
