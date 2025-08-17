@@ -163,12 +163,17 @@
   <li><a href="https://ai-image-enhancer-with-react.vercel.app
 /" target="_blank"><strong>AI Enhancer Image</strong></a> - Using picwish api AI Image Enhancer React app create </li>
   <li><a href=https://mern-simp-website.vercel.app
-/" target="_blank"><strong>MERN site</strong></a> - MERN Simple Website</li>
-  
+/" target="_blank"><strong>MERN site</strong></a> - MERN Simple Website</li>  
 </ul>
-
 <hr>
 
+<h3 align="left">Looking Ahead:</h3>
+<p align="left">
+  I am continuously working towards mastering both "Frontend" and "Backend Development" to become a well-rounded "Full Stack Developer". My goal is to build real-world applications, contribute to open-source, and enhance my problem-solving skills. 💻<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="22" align="center">
+  <span align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rajsingh704596" />
+  </span>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
