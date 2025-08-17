@@ -25,7 +25,7 @@
 ---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" align="top" /> &nbsp;**Tech Stack :**
 <!--Frontend Development -->
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=3000&color=AAAAAA&background=00000000&vCenter=true&multiline=true&width=300&lines=Frontend+Development+%3A+-" alt="Frontend Development : " />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=3000&color=00BFA6&background=00000000&vCenter=true&multiline=true&width=300&lines=Frontend+Development+%3A+-" alt="Frontend Development : " />
 
 #### Core Technologies
 <p align="left">
@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/Zustand-614F0D?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand">
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query">
 <img src="https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=next.js&logoColor=white" />
-
 </p>
 
 #### UI Components for Styling & Animation
@@ -76,11 +75,10 @@
 </p>
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
-
 <!--Backend Development-->
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=3000&color=AAAAAA&background=00000000&vCenter=true&multiline=true&width=300&lines=Backend+Development+%3A+-" alt="Backend Development : " />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=3000&color=00BFA6&background=00000000&vCenter=true&multiline=true&width=300&lines=Backend+Development+%3A+-" alt="Backend Development : " />
 
 #### Server & APIs
 <p align="left">
@@ -111,9 +109,8 @@
   <img src="https://img.shields.io/badge/Drizzle-FF6C37?style=for-the-badge&logo=drizzle&logoColor=white" alt="Drizzle">
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
 </p>
-
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 
 ### **Deployment**
