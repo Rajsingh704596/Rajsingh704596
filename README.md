@@ -25,24 +25,24 @@
 ---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" align="top" /> &nbsp;**Tech Stack :**
 <!--Frontend Development -->
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=3000&color=00BFA6&background=00000000&vCenter=true&multiline=true&width=300&lines=Frontend+Development+%3A+-" alt="Frontend Development : " />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=3000&color=009DC5&background=00000000&vCenter=true&multiline=true&width=300&lines=Frontend+Development+%3A+-" alt="Frontend Development : " />
 
 #### Core Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
 #### Frameworks & State Management Libraries
 <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+   <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=%2361DAF" alt="React"/>
    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge">
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit">
   <img src="https://img.shields.io/badge/Zustand-614F0D?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand">
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query">
-<img src="https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 </p>
 
 #### UI Components for Styling & Animation
@@ -78,7 +78,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 <!--Backend Development-->
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=3000&color=00BFA6&background=00000000&vCenter=true&multiline=true&width=300&lines=Backend+Development+%3A+-" alt="Backend Development : " />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=3000&color=009DC5&background=00000000&vCenter=true&multiline=true&width=300&lines=Backend+Development+%3A+-" alt="Backend Development : " />
 
 #### Server & APIs
 <p align="left">
@@ -169,13 +169,6 @@
 
 <hr>
 
-<h3 align="left">Looking Ahead:</h3>
-<p align="left">
-  I am continuously working towards mastering both "Frontend" and "Backend Development" to become a well-rounded "Full Stack Developer". My goal is to build real-world applications, contribute to open-source, and enhance my problem-solving skills. 💻<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="22" align="center">
-  <span align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rajsingh704596" />
-  </span>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
