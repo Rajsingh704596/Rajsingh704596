@@ -107,7 +107,8 @@
   <!-- <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"> -->
  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Drizzle-FF6C37?style=for-the-badge&logo=drizzle&logoColor=white" alt="Drizzle">
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
+ <img src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
+
 </p>
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
